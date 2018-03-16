@@ -17,6 +17,6 @@ ul {
 	float:right;
 	background:black center top no-repeat;
 	background-size:cover;
-	shape-outside: url(../Documents/transparent_stairs_img.png);
+	shape-outside: url(../transparent_stairs_img.png);
 	shape-image-threshold: 0.5;
 }
